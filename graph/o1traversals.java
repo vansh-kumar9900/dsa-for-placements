@@ -11,10 +11,10 @@ public class o1traversals {
         while(!q.isEmpty()){
             int node = q.poll(); 
             bsf.add(node);
-            for(Integer it : adj.get(node)){
-                if(visited[it] == 0){
-                    visited[it] = 1;
-                    q.add(it);
+            for(Integer i : adj.get(node)){
+                if(visited[i] == 0){
+                    visited[i] = 1;
+                    q.add(i);
                 }
             }
         }
