@@ -1,4 +1,4 @@
-package graph;
+package graph.o3_1NoOfIslandsBFS;
 import java.util.*;
 class Pair {
     int row;

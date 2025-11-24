@@ -1,4 +1,4 @@
-package graph;
+package graph.o3NoOfIslands;
 import java.util.*;
 class o3NoOfIslands {
     public int numIslands(char[][] grid) {

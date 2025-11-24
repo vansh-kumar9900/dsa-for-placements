@@ -1,4 +1,4 @@
-package graph;
+package graph.o1traversals;
 
 import java.util.*;
 public class o1traversals {

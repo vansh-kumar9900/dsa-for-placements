@@ -1,4 +1,4 @@
-package graph;
+package graph.o2NoOfProvinces;
 import java.util.*;
 
 public class o2NoOfProvinces {    // leetcode-547
